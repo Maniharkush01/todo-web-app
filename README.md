@@ -1,3 +1,5 @@
+To-Do Web App
+A full-stack To-Do application built using React.js and Node.js (Express), featuring task management and a REST API backend.
 This project was developed under a strict time constraint.
 The overall architecture and workflow were inspired by an open-source MERN To-Do application.
 This submission demonstrates my understanding of full-stack development concepts such as
