@@ -12,3 +12,5 @@ root.render(
 );
 
 reportWebVitals();
+
+// API call to fetch tasks and update UI
